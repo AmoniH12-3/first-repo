@@ -11,7 +11,7 @@ In my free time, I love to work on case studies across different sectors to furt
 
 I'm always looking for opportunities to grow, get my feet wet, and start a career within the realm of Data Analytics.  
 
-📂 **[Download My Resume]([Amoni_Haynes_Resume_2025.pdf]  
+📂 **[Download My Resume](Amoni_Haynes_Resume_2025.pdf)**  
 
 This repository showcases my skills, recent projects, case studies, and tracks my progress in Data Analytics.
 
@@ -52,6 +52,5 @@ This case study analyzes passengers on the Titanic and their survival rates base
 
 Stay tuned for more projects where I'll be analyzing real-world datasets using **Excel, SQL, Python, and R**. Feel free to connect with me and check out my latest work!  
 
-📧 Contact: [amonihaynes@gmail.com]  
-💼 LinkedIn: [https://www.linkedin.com/in/amoni-haynes-0b0bb6154/]  
-
+📧 Contact: [Your Email]  
+💼 LinkedIn: [Your LinkedIn Profile]  
