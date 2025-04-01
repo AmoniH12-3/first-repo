@@ -21,7 +21,7 @@ This repository showcases my skills, recent projects, case studies, and tracks m
 This case study analyzes passengers on the Titanic and their survival rates based on factors such as gender, age, and ticket class.  
 
 ### 📂 Files Included:  
-- **📈 Excel Report:** [Download the Report](Titanic_Survival_Analysis_Report.pdf)  
+- **📈 Excel Report:** [Download the Report]: [Titanic Survival Analysis Report.pdf](https://github.com/user-attachments/files/19544776/Titanic.Survival.Analysis.Report.pdf) 
 - **📊 Dataset:** [View the Data](train.csv)  
 
 ### 🔍 Key Insights:
