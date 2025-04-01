@@ -11,7 +11,7 @@ In my free time, I love to work on case studies across different sectors to furt
 
 I'm always looking for opportunities to grow, get my feet wet, and start a career within the realm of Data Analytics.  
 
-📂 **[Download My Resume][Amoni Haynes Resume 2025.pdf](https://github.com/user-attachments/files/19544762/Amoni.Haynes.Resume.2025.pdf)))**  
+📂 **[Download My Resume]: [Amoni Haynes Resume 2025.pdf](https://github.com/user-attachments/files/19544762/Amoni.Haynes.Resume.2025.pdf))**  
 
 This repository showcases my skills, recent projects, case studies, and tracks my progress in Data Analytics.
 
