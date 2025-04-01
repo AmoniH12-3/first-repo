@@ -22,7 +22,8 @@ This case study analyzes passengers on the Titanic and their survival rates base
 
 ### 📂 Files Included:  
 - **📈 Excel Report:** [Download the Report]: [Titanic Survival Analysis Report.pdf](https://github.com/user-attachments/files/19544776/Titanic.Survival.Analysis.Report.pdf) 
-- **📊 Dataset:** [View the Data](train.csv)  
+- **📊 Dataset:** [View the Data]: [Titanic Data Set.xlsx](https://github.com/user-attachments/files/19544873/Titanic.Data.Set.xlsx)
+sv)  
 
 ### 🔍 Key Insights:
 #### **🚢 Insight 1: Basic Statistics**
