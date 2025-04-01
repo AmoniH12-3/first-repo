@@ -54,5 +54,5 @@ sv)
 
 Stay tuned for more projects where I'll be analyzing real-world datasets using **Excel, SQL, Python, and R**. Feel free to connect with me and check out my latest work!  
 
-📧 Contact: [Your Email]  
-💼 LinkedIn: [Your LinkedIn Profile]  
+📧 Contact: [amonihaynes@gmail.com]  
+💼 LinkedIn: [https://www.linkedin.com/in/amoni-haynes-0b0bb6154/]  
