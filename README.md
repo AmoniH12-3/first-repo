@@ -50,9 +50,21 @@ sv)
 
 ---
 
+### Case Study: Analyzing Weather Patterns Across U.S. Cities
+This case study analyzes weather trends across different major U.S. cities throughout different seasons
+
+### 📂 Files Included:
+- **📈 R Markdown Report:** [Download the Report]: [Weather-Casse-Study-report.html](https://github.com/username/your-repo-name/blob/main/Weather-Analysis-Report.html)
+- **📊 Dataset:** [View the Data](https://github.com/username/your-repo-name/blob/main/weather_data.csv)
+
+- sv)
+
+### 🔍 Key Insights:
+- Hottest city: Los Angeles, 15.0810627
+Most humid city: Chicago, 60.0887976
+Locations with higher temperatures should prepare for heatwaves.
+Cities with high humidity levels might experience more rainfall.
+
 ### 🚀 More Case Studies Coming Soon!  
-
-Stay tuned for more projects where I'll be analyzing real-world datasets using **Excel, SQL, Python, and R**. Feel free to connect with me and check out my latest work!  
-
 📧 Contact: [amonihaynes@gmail.com]  
 💼 LinkedIn: [https://www.linkedin.com/in/amoni-haynes-0b0bb6154/]  
