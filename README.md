@@ -54,8 +54,8 @@ sv)
 This case study analyzes weather trends across different major U.S. cities throughout different seasons
 
 ### 📂 Files Included:
-- **📈 R Markdown Report:** [Download the Report]: [Weather-Casse-Study-report.html](https://github.com/username/your-repo-name/blob/main/Weather-Analysis-Report.html)
-- **📊 Dataset:** [View the Data](https://github.com/username/your-repo-name/blob/main/weather_data.csv)
+- **📈 R Markdown Report:** [Download the Report]: [Weather-Casse-Study-report.html](https://github.com/username/first-repo-/blob/main/Weather-Analysis-Report.html)
+- **📊 Dataset:** [View the Data](https://github.com/username/first-repo/blob/main/weather_data.csv)
 
 - sv)
 
