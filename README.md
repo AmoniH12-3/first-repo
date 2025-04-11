@@ -57,13 +57,35 @@ This case study analyzes weather trends across different major U.S. cities throu
 - **📈 R Markdown Report:** [Download the Report]: [Weather-Casse-Study-report.pdf](https://github.com/AmoniH12-3/first-repo/blob/main/Weather-Casse-Study-report.pdf)
 - **📊 Dataset:** [View the Data](https://github.com/username/first-repo/blob/main/weather_data.csv)
 
-- sv)
-
 ### 🔍 Key Insights:
 - Hottest city: Los Angeles, 15.0810627
 Most humid city: Chicago, 60.0887976
 Locations with higher temperatures should prepare for heatwaves.
 Cities with high humidity levels might experience more rainfall.
+
+# Online Retail Sales Analysis (SQL + Tableau)
+This case study explores sales performance for an online retail store using real-world transactional data. Using SQL for data wrangling and Tableau for visualization, we uncover customer trends, product insights, and revenue breakdowns.
+
+## SQL Analysis
+
+SQL queries were used to extract:
+
+- Top-selling products
+- Monthly revenue trends
+- Top customers by spend
+- Revenue by country
+- Sales heatmap by day
+
+## Tableau Visualizations
+
+[📊 View the full dashboard here](https://public.tableau.com/app/profile/YOURNAME/viz/OnlineRetailDashboard)
+
+## File Structure
+
+- `SQL/`: All SQL queries
+- `data/`: Cleaned CSV files exported from BigQuery
+- `tableau/`: Tableau workbook (`.twb`) file
+
 
 ### 🚀 More Case Studies Coming Soon!  
 📧 Contact: [amonihaynes@gmail.com]  
