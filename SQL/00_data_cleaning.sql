@@ -2,7 +2,7 @@
 -- This file includes basic exploration and cleaning steps
 -- Dataset: E_Commerce_Sales_Data
 
--- Sample rows from dataset
+-- Sample rows from dataset showcasing the first 10 rows
 SELECT * FROM `subtle-signal-456022-n0.E_Commerce_Data.E_Commerce_Sales_Data` LIMIT 10;
 
 -- Count total records
