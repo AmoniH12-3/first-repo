@@ -68,9 +68,7 @@ Cities with high humidity levels might experience more rainfall.
 # Case Study: Online Retail Sales Analysis (SQL + Tableau)
 This case study explores sales performance for an online retail store using real-world transactional data. Using SQL for data wrangling and Tableau for visualization, we uncover customer trends, product insights, and revenue breakdowns.
 
-## SQL Analysis
-
-SQL queries were used to extract:
+## Key Insights:
 
 - Top-selling products
 - Monthly revenue trends
@@ -80,12 +78,12 @@ SQL queries were used to extract:
 
 ## Tableau Visualizations
 
-[📊 Visualizations:** [View the full dashboard here](https://public.tableau.com/views/OnlineRetailSalesDashboardV1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-    Dashboard V2:** [View the full dashboard here](https://public.tableau.com/views/OnlineRetailSalesDashboardV2/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**📈 Data Visualizations V1:** [View the full dashboard here](https://public.tableau.com/views/OnlineRetailSalesDashboardV1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**📈 Data Visualizations V2:**[View the full dashboard here](https://public.tableau.com/views/OnlineRetailSalesDashboardV2/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dataset
 
-Data:** [View the full data here](
+**📊 Dataset:** [View the Data](https://github.com/AmoniH12-3/first-repo/blob/main/E-Commerce%20Sales%20Data%20%20(1).xlsx)
 
 ## File Structure
 
