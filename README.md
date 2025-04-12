@@ -76,6 +76,17 @@ This case study explores sales performance for an online retail store using real
 - Revenue by country
 - Sales heatmap by day
 
+## 📂 Files Included:
+- ** 📁 SQL Queries:**
+- [Data Cleaning](SQL/01_data_cleaning.sql)
+- [Top Products](SQL/02_top_products.sql)
+- [Monthly Revenue](SQL/03_monthly_revenue.sql)
+- [Top Customers](SQL/04_top_customers.sql)
+- [Country Revenue](SQL/05_country_revenue.sql)
+- [Sales Heatmap](SQL/06_sales_heatmap.sql)
+- [Returns Analysis](SQL/07_returns_analysis.sql)
+- [Customer Behavior](SQL/08_customer_behavior.sql)
+
 ## Tableau Visualizations
 
 **📈 Data Visualizations V1:** [View the full dashboard here](https://public.tableau.com/views/OnlineRetailSalesDashboardV1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
