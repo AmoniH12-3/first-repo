@@ -1,4 +1,4 @@
--- STEP : Total Revenue by Country (Excludes UK)
+-- STEP 4: Total Revenue by Country (Excludes UK)
 
 SELECT 
     Country,
