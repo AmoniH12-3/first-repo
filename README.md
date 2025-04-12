@@ -63,7 +63,7 @@ Most humid city: Chicago, 60.0887976
 Locations with higher temperatures should prepare for heatwaves.
 Cities with high humidity levels might experience more rainfall.
 
-# Online Retail Sales Analysis (SQL + Tableau)
+# Case Study: Online Retail Sales Analysis (SQL + Tableau)
 This case study explores sales performance for an online retail store using real-world transactional data. Using SQL for data wrangling and Tableau for visualization, we uncover customer trends, product insights, and revenue breakdowns.
 
 ## SQL Analysis
