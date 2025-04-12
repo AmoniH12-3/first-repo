@@ -1,6 +1,6 @@
 -- STEP 7: Customer Purchase Behavior & AOV
 
-SELECT 
+SELECT
     CustomerID,
     COUNT(DISTINCT InvoiceNo) AS total_orders,
     SUM(Quantity * UnitPrice) AS total_spent,
