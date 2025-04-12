@@ -80,7 +80,8 @@ SQL queries were used to extract:
 
 ## Tableau Visualizations
 
-[📊 View the full dashboard here](https://public.tableau.com/views/OnlineRetailSalesDashboardV1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[📊 View the full dashboards here](https://public.tableau.com/views/OnlineRetailSalesDashboardV1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Dashboard V2: (https://public.tableau.com/views/OnlineRetailSalesDashboardV2/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## File Structure
 
