@@ -68,23 +68,23 @@ Cities with high humidity levels might experience more rainfall.
 # Case Study: Online Retail Sales Analysis (SQL + Tableau)
 This case study explores sales performance for an online retail store using real-world transactional data. Using SQL for data wrangling and Tableau for visualization, we uncover customer trends, product insights, and revenue breakdowns.
 
-📊## Key Insights:
+### 📊 Key Insights:
 
-Top-selling products
+### Top-selling products
 - The bestsellers are primarily low-cost decorative items, like the Regency Cakestand or the Little Birdie Paper Craft, often bought in bulk.
 - The top 10 products make up a large share of total revenue.
 - The company should use this info and focus on stocking more popular SKUs such as the top 10 highest selling products, and bundling similar items with them.
 
- Monthly revenue trends
+### Monthly revenue trends
 - A noticable trend of increase in revenue throughout the year occured from September and reached its peak revenue in November at $1,161,817, hinting at possible sales and promotions provided in preparation for the holiday season.
 - From the data, January typically seems to underperform, suggesting a post-holiday decrease in demand.
 - Focusing on more sales and promotions within the fall and winter months for the 2012 cycle could help the business earn more revenue and potentially surpass the previous high of $1,161,817 in November of 2011.
 
- Top customers by spend
+### Top customers by spend
 - A small number of repeat customers generate a significant portion of sales—indicative of strong B2B activity.These customers place multiple, large-value orders, increasing their lifetime value.
 -Focusing on customer retention and personalized deals for top buyers could enhance long-term revenue.
 
-Revenue by country
+### Revenue by country
 - The United Kingdom remains the dominant market, but international sales show promise in:
 -Netherlands
 -Germany
@@ -92,7 +92,7 @@ Revenue by country
 -EIRE (Ireland)
 - With this information, there's an opportunity to develop targeted marketing campaigns within these areas to maintain a core consumer base.
 
- Sales heatmap by day
+### Sales by day
 -Tuesday and Thursday obtained the highest sales volume—possibly aligned with email promotions or restocks.
 -Weekends (Saturday & Sunday) see lower sales, likely due to B2B-focused customer base operating during weekdays.
 -Understanding the day-of-week patterns provides better insight into potential campaign launches, as well as restocking, and staff scheduling strategies.
