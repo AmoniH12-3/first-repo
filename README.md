@@ -71,10 +71,24 @@ This case study explores sales performance for an online retail store using real
 ## Key Insights:
 
 - Top-selling products
+- 
 - Monthly revenue trends
+- 
 - Top customers by spend
+- A small number of repeat customers generate a significant portion of sales—indicative of strong B2B activity.
+- These customers place multiple, large-value orders, increasing their lifetime value.
+- Focusing on customer retention and personalized deals for top buyers could enhance long-term revenue.
 - Revenue by country
+ The United Kingdom remains the dominant market, but international sales show promise in:
+-Netherlands
+-Germany
+-France
+-EIRE (Ireland)
+- With this information, there's an opportunity to develop targeted marketing campaigns within these areas to maintain a core consumer base.
 - Sales heatmap by day
+Tuesday and Thursday obtained the highest sales volume—possibly aligned with email promotions or restocks.
+Weekends (Saturday & Sunday) see lower sales, likely due to B2B-focused customer base operating during weekdays.
+Understanding the day-of-week patterns can provide better insight into potential campaign launches, as well as restocking, and staff scheduling strategies.
 
 ## 📂 Files Included:
 - ** 📁 SQL Queries:**
@@ -95,13 +109,6 @@ This case study explores sales performance for an online retail store using real
 ## Dataset
 
 **📊 Dataset:** [View the Data](https://github.com/AmoniH12-3/first-repo/blob/main/E-Commerce%20Sales%20Data%20%20(1).xlsx)
-
-## File Structure
-
-- `SQL/`: All SQL queries
-- `data/`: Cleaned CSV files exported from BigQuery
-- `tableau/`: Tableau workbook (`.twb`) file
-
 
 ### 🚀 More Case Studies Coming Soon!  
 📧 Contact: [amonihaynes@gmail.com]  
