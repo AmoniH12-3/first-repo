@@ -65,7 +65,7 @@ Cities with high humidity levels might experience more rainfall.
 
 ---
 
-# Case Study: Online Retail Sales Analysis (SQL + Tableau)
+### Case Study: Online Retail Sales Analysis (SQL + Tableau)
 This case study explores sales performance for an online retail store using real-world transactional data. Using SQL for data wrangling and Tableau for visualization, I've discovered the customer trends, product insights, and revenue breakdowns.
 
 ### 📊 Key Insights:
