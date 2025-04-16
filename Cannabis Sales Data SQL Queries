@@ -1,0 +1,7 @@
+### Showcases total sales over time within the past year
+SELECT 
+  DATE(`Week Ending`) AS week,
+  SUM(`Total Adult-Use and Medical Sales`) AS total_sales
+FROM `sylvan-shuttle-456019-r2.Cannabis_Retail_Sales.Cannabis Retail Sales Data`
+GROUP BY week
+ORDER BY week
