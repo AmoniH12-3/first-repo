@@ -145,7 +145,7 @@ This project explores and visualizes retail cannabis sales data using BigQuery f
   - `Total Products Sold`
   - `Adult-Use Average Product Price`
   - `Medical Average Product Price`
-  - Cleaned data (https://docs.google.com/spreadsheets/d/1Qa1mJecqs0WUWi2IA9ZeHrrJJrSG-kaWo3I3j1O_ODg/edit?gid=775437552#gid=775437552)
+  - [Cleaned data](https://docs.google.com/spreadsheets/d/1Qa1mJecqs0WUWi2IA9ZeHrrJJrSG-kaWo3I3j1O_ODg/edit?gid=775437552#gid=775437552)
 ---
 
 ## 🧹 Data Cleaning Steps (BigQuery)
