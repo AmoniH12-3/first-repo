@@ -150,7 +150,7 @@ This project explores and visualizes retail cannabis sales data using BigQuery f
 
 ## 📂 Files Included:
 - ** 📁 SQL Queries:**
-- [Average price by Category](Avg_Price_by_Category.sql)
+- [Average price by Category](https://github.com/AmoniH12-3/first-repo/blob/main/SQL/Avg_Price_by_Category.sql)
 - [Highest Sales Week](Highest _Sales_ Week.sql)
 - [Total products sold by Week](Total_Products_Sold_by_Week.sql)
 - [Total Sales](total_sales.sql)
