@@ -117,6 +117,86 @@ This case study explores sales performance for an online retail store using real
 
 **📊 Dataset:** [View the Data](https://github.com/AmoniH12-3/first-repo/blob/main/E-Commerce%20Sales%20Data%20%20(1).xlsx)
 
+## 📊 Cannabis Retail Sales Data Analysis (BigQuery + Google Sheets + Tableau)
+
+This project explores and visualizes retail cannabis sales data using BigQuery for data wrangling, Google Sheets for light data cleaning and export, and Tableau Public for visualizations. It provides nsights into total sales between Adult and Medical Cannabis sales, product trends, and more.
+
+---
+
+## 🧰 Tools Used
+
+- **Google BigQuery** – SQL queries for cleaning, aggregating, and analyzing the dataset  
+- **Google Sheets** – Exported cleaned query results and formatted as CSV for Tableau  
+- **Tableau Public** – Interactive visualizations and dashboards  
+
+---
+
+## 📁 Dataset
+
+- Source: [Synthetic Cannabis Retail Sales Dataset on Kaggle](https://www.kaggle.com/datasets/sunnykakar/cannabis-retail-sales)
+- Fields Included:
+  - `Week Ending`
+  - `Adult-Use Retail Sales`
+  - `Medical Marijuana Retail Sales`
+  - `Total Adult-Use and Medical Sales`
+  - `Adult-Use Products Sold`
+  - `Medical Products Sold`
+  - `Total Products Sold`
+  - `Adult-Use Average Product Price`
+  - `Medical Average Product Price`
+
+---
+
+## 🧹 Data Cleaning Steps (BigQuery)
+
+SQL queries were used to:
+- Confirm absence of NULL values in key columns
+- Format date field properly (`DATE(Week Ending)`)
+- Aggregate weekly totals
+- Separate adult-use vs. medical trends
+- Export cleaned query results to CSV for Tableau
+
+> 📁 All queries are saved in the `/SQL` folder and labeled by purpose (e.g., total_sales.sql, avg_prices.sql)
+
+---
+
+## 📊 Visualizations Created (Tableau Public)
+
+1. **Weekly Total Sales**  
+   - Chart: Line Chart  
+   - CSV: `total_sales.csv`  
+   - Fields:
+     - Columns: `Week Ending`
+     - Rows: `Total Adult-Use and Medical Sales`  
+
+2. **Average Product Price by Category**  
+   - Chart: Dual Line Chart  
+   - CSV: `avg_price.csv`  
+   - Fields:
+     - Columns: `Week Ending`
+     - Rows: `Adult-Use Average Product Price`, `Medical Average Product Price`  
+
+3. **Product Volume Sold by Category**  
+   - Chart: Stacked Bar Chart  
+   - CSV: `volume_by_category.csv`  
+   - Fields:
+     - Columns: `Week Ending`
+     - Rows: `Adult-Use Products Sold`, `Medical Products Sold`  
+
+4. **Combined Dashboard**  
+   - Published on [Tableau Public](#) (Link goes here)  
+   - Includes filters for time period  
+   - Interactive tooltips and clean formatting
+
+---
+
+## 🔍 Key Insights
+
+- **Total Sales Growth**: Adult-use retail sales grew steadily over the period, driving most of the overall revenue increase.
+- **Price Trends**: Medical marijuana prices remained more stable, while adult-use pricing had more fluctuations.
+- **Volume Sold**: Adult-use products consistently outsold medical products in volume each week.
+- **Seasonality**: Some weekly spikes and dips suggest seasonality or regulatory effects.
+
 ### 🚀 More Case Studies Coming Soon!  
 📧 Contact: [amonihaynes@gmail.com]  
 💼 LinkedIn: [https://www.linkedin.com/in/amoni-haynes-0b0bb6154/]  
