@@ -148,46 +148,49 @@ This project explores and visualizes retail cannabis sales data using BigQuery f
   - [Formatted Data](https://docs.google.com/spreadsheets/d/1Qa1mJecqs0WUWi2IA9ZeHrrJJrSG-kaWo3I3j1O_ODg/edit?gid=775437552#gid=775437552)
 ---
 
-## 🧹 Data Cleaning Steps (BigQuery)
-
-SQL queries were used to:
-- Confirm absence of NULL values in key columns
-- Format date field properly (`DATE(Week Ending)`)
-- Aggregate weekly totals
-- Separate adult-use vs. medical trends
-- Export cleaned query results to CSV for Tableau
-
-> 📁 All queries are saved in the `/SQL` folder and labeled by purpose (e.g., total_sales.sql, avg_prices.sql)
+## 📂 Files Included:
+- ** 📁 SQL Queries:**
+- [Average price by Category](Avg_Price_by_Category.sql)
+- [Highest Sales Week](Highest _Sales_ Week.sql)
+- [Total products sold by Week](Total_Products_Sold_by_Week.sql)
+- [Total Sales](total_sales.sql)
 
 ---
 
 ## 📊 Visualizations Created (Tableau Public)
 
-1. **Weekly Total Sales**  
-   - Chart: Line Chart  
-   - CSV: `total_sales.csv`  
-   - Fields:
-     - Columns: `Week Ending`
-     - Rows: `Total Adult-Use and Medical Sales`  
-
-2. **Average Product Price by Category**  
+1.**Average Product Price by Category**  
    - Chart: Dual Line Chart  
    - CSV: `avg_price.csv`  
    - Fields:
      - Columns: `Week Ending`
      - Rows: `Adult-Use Average Product Price`, `Medical Average Product Price`  
 
-3. **Product Volume Sold by Category**  
+2. **Weekly Total Sales**  
+   - Chart: Line Chart  
+   - CSV: `total_sales.csv`  
+   - Fields:
+     - Columns: `Week Ending`
+     - Rows: `Total Adult-Use and Medical Sales`  
+
+3. **Average Product Price by Category**  
+   - Chart: Dual Line Chart  
+   - CSV: `avg_price.csv`  
+   - Fields:
+     - Columns: `Week Ending`
+     - Rows: `Adult-Use Average Product Price`, `Medical Average Product Price`  
+
+4. **Product Volume Sold by Category**  
    - Chart: Stacked Bar Chart  
    - CSV: `volume_by_category.csv`  
    - Fields:
      - Columns: `Week Ending`
      - Rows: `Adult-Use Products Sold`, `Medical Products Sold`  
 
-4. **Combined Dashboards**  
-   - Dashboard 1 (https://public.tableau.com/app/profile/amoni.haynes/viz/TotalProductsSoldSalesbyWeek/Dashboard2?publish=yes)
-   - Dashboard 2 (https://public.tableau.com/app/profile/amoni.haynes/viz/HighestSalesWeekinUSD/Dashboard3?publish=yes)
-   - Dashboard 3 (https://public.tableau.com/app/profile/amoni.haynes/viz/AdultMedicalCannabisSalesData/Dashboard1?publish=yes)
+5. **Combined Dashboards**  
+   - [Dashboard 1](https://public.tableau.com/app/profile/amoni.haynes/viz/TotalProductsSoldSalesbyWeek/Dashboard2?publish=yes)
+   - [Dashboard 2](https://public.tableau.com/app/profile/amoni.haynes/viz/HighestSalesWeekinUSD/Dashboard3?publish=yes)
+   - [Dashboard 3](https://public.tableau.com/app/profile/amoni.haynes/viz/AdultMedicalCannabisSalesData/Dashboard1?publish=yes)
      
    - Interactive tooltips and clean formatting
 
