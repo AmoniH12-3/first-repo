@@ -119,15 +119,16 @@ This case study explores sales performance for an online retail store using real
 
 ## 📊 Cannabis Retail Sales Data Analysis (BigQuery + Google Sheets + Tableau)
 
-This project explores and visualizes retail cannabis sales data using BigQuery for data wrangling, Google Sheets for light data cleaning and export, and Tableau Public for visualizations. It provides nsights into total sales between Adult and Medical Cannabis sales, product trends, and more.
+This project explores and visualizes retail cannabis sales data using BigQuery for formatting, Google Sheets for light data cleaning, and Tableau Public for visualizations. It provides insights into total sales between Adult and Medical Cannabis sales, product trends, and more.
 
 ---
 
-## 🧰 Tools Used
+## 🔍 Key Insights
 
-- **Google BigQuery** – SQL queries for cleaning, aggregating, and analyzing the dataset  
-- **Google Sheets** – Exported cleaned query results and formatted as CSV for Tableau  
-- **Tableau Public** – Interactive visualizations and dashboards  
+- **Total Sales Growth**: Adult-use retail sales grew steadily over the period, driving most of the overall revenue increase.
+- **Price Trends**: Medical marijuana prices remained more stable, while adult-use pricing had more fluctuations.
+- **Volume Sold**: Adult-use products consistently outsold medical products in volume each week.
+- **Seasonality**: Some weekly spikes and dips suggest seasonality or regulatory effects.
 
 ---
 
@@ -144,7 +145,7 @@ This project explores and visualizes retail cannabis sales data using BigQuery f
   - `Total Products Sold`
   - `Adult-Use Average Product Price`
   - `Medical Average Product Price`
-
+  - Cleaned data (https://docs.google.com/spreadsheets/d/1Qa1mJecqs0WUWi2IA9ZeHrrJJrSG-kaWo3I3j1O_ODg/edit?gid=775437552#gid=775437552)
 ---
 
 ## 🧹 Data Cleaning Steps (BigQuery)
@@ -183,19 +184,15 @@ SQL queries were used to:
      - Columns: `Week Ending`
      - Rows: `Adult-Use Products Sold`, `Medical Products Sold`  
 
-4. **Combined Dashboard**  
-   - Published on [Tableau Public](#) (Link goes here)  
-   - Includes filters for time period  
+4. **Combined Dashboards**  
+   - Dashboard 1 (https://public.tableau.com/app/profile/amoni.haynes/viz/TotalProductsSoldSalesbyWeek/Dashboard2?publish=yes)
+   - Dashboard 2 (https://public.tableau.com/app/profile/amoni.haynes/viz/HighestSalesWeekinUSD/Dashboard3?publish=yes)
+   - Dashboard 3 (https://public.tableau.com/app/profile/amoni.haynes/viz/AdultMedicalCannabisSalesData/Dashboard1?publish=yes)
+     
    - Interactive tooltips and clean formatting
 
 ---
 
-## 🔍 Key Insights
-
-- **Total Sales Growth**: Adult-use retail sales grew steadily over the period, driving most of the overall revenue increase.
-- **Price Trends**: Medical marijuana prices remained more stable, while adult-use pricing had more fluctuations.
-- **Volume Sold**: Adult-use products consistently outsold medical products in volume each week.
-- **Seasonality**: Some weekly spikes and dips suggest seasonality or regulatory effects.
 
 ### 🚀 More Case Studies Coming Soon!  
 📧 Contact: [amonihaynes@gmail.com]  
