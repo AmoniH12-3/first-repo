@@ -165,10 +165,7 @@ This project explores and visualizes retail cannabis sales data using BigQuery f
    - [Dashboard 2](https://public.tableau.com/app/profile/amoni.haynes/viz/HighestSalesWeekinUSD/Dashboard3?publish=yes)
    - [Dashboard 3](https://public.tableau.com/app/profile/amoni.haynes/viz/AdultMedicalCannabisSalesData/Dashboard1?publish=yes)
      
-   - Interactive tooltips and clean formatting
-
 ---
-
 
 ### 🚀 More Case Studies Coming Soon!  
 📧 Contact: [amonihaynes@gmail.com]  
