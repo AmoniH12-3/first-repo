@@ -128,7 +128,7 @@ This project explores and visualizes retail cannabis sales data using BigQuery f
 - **Total Sales Growth**: Adult-use retail sales grew steadily over the period, driving most of the overall revenue increase, while medical-use retail sales steadily declined.
 - The week ending on December 23, 2023 had the highest total sales of any week within the 53 week period.
 - **Price Trends**: Medical marijuana prices remained more stable, while adult-use pricing had more fluctuations. The cheaper adult-use products were, the more they sold. 
-- **Volume Sold**: Medical-use products initially outsold Adult-use products until the 2nd quarter of the year, in which Adult-use products outsold medical-use products each week following. 
+- **Volume Sold**: Medical-use products initially outsold Adult-use products until the 2nd quarter of the year, in which Adult-use products outsold Medical-use products each week following. 
 - **Seasonality**: Some weekly spikes and dips suggest seasonality or regulatory effects.
 
 ---
@@ -146,7 +146,6 @@ This project explores and visualizes retail cannabis sales data using BigQuery f
   - `Total Products Sold`
   - `Adult-Use Average Product Price`
   - `Medical Average Product Price`
-  - `Weekly Top Category`
   - [Formatted Data](https://docs.google.com/spreadsheets/d/1Qa1mJecqs0WUWi2IA9ZeHrrJJrSG-kaWo3I3j1O_ODg/edit?gid=775437552#gid=775437552)
 ---
 
@@ -156,7 +155,8 @@ This project explores and visualizes retail cannabis sales data using BigQuery f
 - [Highest Sales Week](https://github.com/AmoniH12-3/first-repo/blob/main/SQL/Highest%20_Sales_%20Week.sql)
 - [Total products sold by Week](Total_Products_Sold_by_Week.sql)
 - [Total Sales](total_sales.sql)
-- [Weekly Comparison – Which sold more each week?](
+- [Weekly Comparison – Which sold more each week?](https://github.com/AmoniH12-3/first-repo/blob/main/SQL/Weekly%20Comparison.sql)
+- [Overall Comparison]
 
 --- 
 
