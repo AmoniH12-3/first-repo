@@ -125,9 +125,10 @@ This project explores and visualizes retail cannabis sales data using BigQuery f
 
 ## 🔍 Key Insights
 
-- **Total Sales Growth**: Adult-use retail sales grew steadily over the period, driving most of the overall revenue increase.
-- **Price Trends**: Medical marijuana prices remained more stable, while adult-use pricing had more fluctuations.
-- **Volume Sold**: Adult-use products consistently outsold medical products in volume each week.
+- **Total Sales Growth**: Adult-use retail sales grew steadily over the period, driving most of the overall revenue increase, while medical-use retail sales steadily declined.
+- The week ending on December 23, 2023 had the highest total sales of any week within the 53 week period.
+- **Price Trends**: Medical marijuana prices remained more stable, while adult-use pricing had more fluctuations. The cheaper adult-use products were, the more they sold. 
+- **Volume Sold**: Medical-use products initially outsold Adult-use products until the 2nd quarter of the year, in which Adult-use products outsold medical-use products each week following. 
 - **Seasonality**: Some weekly spikes and dips suggest seasonality or regulatory effects.
 
 ---
@@ -145,49 +146,21 @@ This project explores and visualizes retail cannabis sales data using BigQuery f
   - `Total Products Sold`
   - `Adult-Use Average Product Price`
   - `Medical Average Product Price`
+  - `Weekly Top Category`
   - [Formatted Data](https://docs.google.com/spreadsheets/d/1Qa1mJecqs0WUWi2IA9ZeHrrJJrSG-kaWo3I3j1O_ODg/edit?gid=775437552#gid=775437552)
 ---
 
 ## 📂 Files Included:
 - ** 📁 SQL Queries:**
 - [Average price by Category](https://github.com/AmoniH12-3/first-repo/blob/main/SQL/Avg_Price_by_Category.sql)
-- [Highest Sales Week](Highest _Sales_ Week.sql)
+- [Highest Sales Week](https://github.com/AmoniH12-3/first-repo/blob/main/SQL/Highest%20_Sales_%20Week.sql)
 - [Total products sold by Week](Total_Products_Sold_by_Week.sql)
 - [Total Sales](total_sales.sql)
+- [Weekly Comparison – Which sold more each week?](
 
----
+--- 
 
-## 📊 Visualizations Created (Tableau Public)
-
-1.**Average Product Price by Category**  
-   - Chart: Dual Line Chart  
-   - CSV: `avg_price.csv`  
-   - Fields:
-     - Columns: `Week Ending`
-     - Rows: `Adult-Use Average Product Price`, `Medical Average Product Price`  
-
-2. **Weekly Total Sales**  
-   - Chart: Line Chart  
-   - CSV: `total_sales.csv`  
-   - Fields:
-     - Columns: `Week Ending`
-     - Rows: `Total Adult-Use and Medical Sales`  
-
-3. **Average Product Price by Category**  
-   - Chart: Dual Line Chart  
-   - CSV: `avg_price.csv`  
-   - Fields:
-     - Columns: `Week Ending`
-     - Rows: `Adult-Use Average Product Price`, `Medical Average Product Price`  
-
-4. **Product Volume Sold by Category**  
-   - Chart: Stacked Bar Chart  
-   - CSV: `volume_by_category.csv`  
-   - Fields:
-     - Columns: `Week Ending`
-     - Rows: `Adult-Use Products Sold`, `Medical Products Sold`  
-
-5. **Combined Dashboards**  
+5. **Visualizations/Combined Dashboards**  
    - [Dashboard 1](https://public.tableau.com/app/profile/amoni.haynes/viz/TotalProductsSoldSalesbyWeek/Dashboard2?publish=yes)
    - [Dashboard 2](https://public.tableau.com/app/profile/amoni.haynes/viz/HighestSalesWeekinUSD/Dashboard3?publish=yes)
    - [Dashboard 3](https://public.tableau.com/app/profile/amoni.haynes/viz/AdultMedicalCannabisSalesData/Dashboard1?publish=yes)
